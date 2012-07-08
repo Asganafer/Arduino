@@ -1,5 +1,5 @@
 /*
-Giorgio Guidi
+Giorgio Asganafer
 25/5/12
 
 3 LED si accednono ad intermittenza quando il bottone viene premuto
