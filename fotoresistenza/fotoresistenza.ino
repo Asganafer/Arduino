@@ -1,5 +1,5 @@
 /*
-Giorgio Guidi
+Giorgio Asganafer
 24/5/2012
 
 Fotoresistenza con LED che si illumina al passaggio della mano
@@ -16,7 +16,6 @@ void setup() {
   Serial.begin(9600);    
 }
 
-// the loop routine runs over and over again forever:
 void loop() {
   //assegnazione del valore della fotoresistenza alla variabile "Var"
   val = analogRead(photosensorPin);

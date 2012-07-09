@@ -1,5 +1,5 @@
 /*
-Giorgio Guidi
+Giorgio Asganafer
 24/5/2012
 
 LED e potenziometro

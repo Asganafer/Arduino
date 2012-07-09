@@ -1,5 +1,5 @@
 /*
-Giorgio "Asganafer" Guidi
+Giorgio Asganafer
 23/5/12
 
 Semaforo a 3 LED

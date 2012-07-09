@@ -1,10 +1,10 @@
 /*
-Giorgio Guidi 3/6/12
+Giorgio Asganafer 3/6/12
 
-LED infrarossi e otenziale motore alla porta 13
+LED infrarossi e potenziale motore alla porta 13
 Quando il sensore avverte la vicinanza di qualcosa il motore/segnale 
 della porta 13 si abbassa e quando non c'è niente davanti il motore 
-riparte ad andare
+riparte.
 
 */
 int inputPIN = A0;               // PIN LED RICEVITORE
